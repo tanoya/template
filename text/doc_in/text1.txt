@@ -1,0 +1,21 @@
+    再别康桥
+轻轻的我走了
+正如我轻轻的来
+##oral##
+@@oral_desc(goog good study, day day up.)@@
+##link##
+@@link_img_src(www.netease.com/img)@@
+@@link_href(www.netease.com/href)@@
+@@link_desc(www.netease.com/desc)@@
+@@link_title(www.netease.com/title)@@
+@@data_id(1)@@
+我挥一挥衣袖
+不带走一片云彩
+那河岸的金柳
+是夕阳中的新娘
+
+如果
+##oral##
+##link##
+##img##
+@@img_src(www.netease.com/img/src)@@

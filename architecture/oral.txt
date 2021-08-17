@@ -1,0 +1,3 @@
+<div class="m-insurance-txt">
+<div>@@oral_desc@@</div>
+</div>
