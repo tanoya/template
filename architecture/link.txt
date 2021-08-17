@@ -1,0 +1,9 @@
+<a href="@@link_href@@" class="m-insurance m-insurance-doc js-insurance" data-position="@@data_position@@" data-id="@@data_id@@">
+    <div class="s-img">
+        <img src="@@link_img_src@@" />
+    </div>
+    <div class="s-info">
+        <div class="s-title">@@link_title@@</div>
+        <div class="s-desc">"@@link_desc@@</div>
+    </div>
+</a>
