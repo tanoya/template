@@ -1,0 +1,56 @@
+    再别康桥
+        徐志摩
+  轻轻的我走了
+  正如我轻轻的来
+  <div class="photo">
+<img src="afasfasfasfa"></img>
+</div>
+  
+  我轻轻的招手
+  ##oral##
+@@oral_desc(HELLO, CHINA)@@
+##link##
+@@link_img_src(WWW.NETEASE.COM/IMG)@@
+@@link_href(WWW.BAIDU.COM/HREF)@@
+@@link_desc(WWW.NETEASE.COM/DESC)@@
+@@link_title(WWW.NETEASE.COM/TITLE)@@
+@@data_id(2)@@
+
+  作别西天的云彩
+  那河岸的金柳
+  ##oral##
+@@oral_desc(HELLO, WORLD)@@
+##link##
+@@link_img_src(WWW.BAIDU.COM/IMG)@@
+@@link_href(WWW.NETEASE.COM/HREF)@@
+@@link_desc(WWW.BAIDU.COM/DESC)@@
+@@link_title(WWW.BAIDU.COM/TITLE)@@
+@@data_id(1)@@
+
+  是夕阳中的新娘
+  波光里的艳影
+  ##oral##
+@@oral_desc(HELLO, WORLD)@@
+##link##
+@@link_img_src(WWW.BAIDU.COM/IMG)@@
+@@link_href(WWW.NETEASE.COM/HREF)@@
+@@link_desc(WWW.BAIDU.COM/DESC)@@
+@@link_title(WWW.BAIDU.COM/TITLE)@@
+@@data_id(1)@@
+
+  在我的心头荡漾
+  ##oral##
+@@oral_desc(HELLO, WORLD)@@
+##link##
+@@link_img_src(WWW.BAIDU.COM/IMG)@@
+@@link_href(WWW.NETEASE.COM/HREF)@@
+@@link_desc(WWW.BAIDU.COM/DESC)@@
+@@link_title(WWW.BAIDU.COM/TITLE)@@
+@@data_id(1)@@
+
+  那软泥上的清行
+  油油的在水底招摇
+  <div class="photo">
+<img src="hahahhahahahah"></img>
+</div>
+  

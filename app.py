@@ -159,20 +159,6 @@ def handle_one_by_one(src, template, targets):
             target = targets[0]
     return src
 
-def handle_regular(src, template, target):
-    "will add with value with template"
-    "I Think This Will Be depressed !!!!"
-    if src == "":
-        return ""
-    reg = template + "\((.*)\)"
-    while template in src:
-        match_obj = re.match( reg, src, re.M|re.I)
-        if match_obj:
-            val = match_obj.group(1)
-            print(val)
-
-
-
 def read_content(file_name):
     _path = os.path.join(FILE_IN_DIR, file_name)
     with open(_path, "r", encoding='utf-8') as f:
@@ -187,6 +173,8 @@ def is_mark(content):
     if content in Checker:
         return True
     if content.startswith("@@") and content.endswith("@@"):
+        return True
+    if content.startswith("<") and content.endswith(">"):
         return True
     return False
 
