@@ -4,6 +4,6 @@
     </div>
     <div class="s-info">
         <div class="s-title">@@link_title@@</div>
-        <div class="s-desc">"@@link_desc@@</div>
+        <div class="s-desc">@@link_desc@@</div>
     </div>
 </a>

@@ -293,7 +293,8 @@ def pipline_one_by_one(content):
     if ORAL_DESC_PROPERTIES in content:
         content = handle_one_by_one(content, ORAL_DESC_PROPERTIES, _oral_descs)
     if DATA_POSITION_PROPERTIES in content:
-        content = handle_one_by_one(content, DATA_POSITION_PROPERTIES, DATA_POSITION_LIST)
+        _t = DATA_POSITION_LIST[:]
+        content = handle_one_by_one(content, DATA_POSITION_PROPERTIES, _t)
     if DATA_ID_PROPERTIES in content:
         content = handle_one_by_one(content, DATA_ID_PROPERTIES, _data_ids)
     return content
